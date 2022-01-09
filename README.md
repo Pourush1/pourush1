@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a fullstack software engineer from United States
-- 🔭 Working on multiple frontend and backend project using Javascript, React, Nodejs and ASP.NET MVC.
-- 🌱 Learning design patterns and GraphQL whenever I am free.
+- 🔭 Working on multiple frontend and backend project using Javascript, Python, React, Node.js, GraphQL and StoryBook.
+- 🌱 Learning design patterns and System Design whenever I am free.
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pourush-shrestha)
