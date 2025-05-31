@@ -2,6 +2,8 @@
 I am a software engineer from United States
 - 🔭 Working on multiple frontend and backend project using Javascript, Python, React, Node.js, Express.js, Next.js and GraphQL.
 - 🌱 Helping companies scale their frontend architecture and boost team performance through strategic technical transformations.
+- 🤖 Currently learning AI/ML and exploring its applications in web development - check out my [Learning AI repo](https://github.com/Pourush1/learn-ai) for my journey!
+- 📚 In my free time, I dive deep into system design, software architecture, and AI to stay ahead of emerging technologies.
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pourush-shrestha)
