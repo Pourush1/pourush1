@@ -7,6 +7,7 @@ I am a software engineer from United States
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pourush-shrestha)
+[<img align="left" alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://pourushshrestha.com/)
 <br>
 
 ## Expertise
